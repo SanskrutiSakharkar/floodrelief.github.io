@@ -1,1 +1,2 @@
-# paymentintegratedwebsite(flood relief).github.io
+# paymentintegratedwebsite.github.io
+https://sanskrutisakharkar.github.io/paymentintegratedwebsite.github.io/
